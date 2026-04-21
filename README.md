@@ -129,7 +129,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/alchaincyf/people.skill.git
+git clone https://github.com/ThistleInTheSun/people.skill.git
 
 # 安装全部 Skill（或只安装你需要的）
 cp people.skill/skills/*.md ~/.agents/skills/
@@ -256,7 +256,7 @@ skills/{name}-perspective.md
 
 | | |
 |:---|:---|
-| 📖 知乎 | [蒸馏的猫](https://www.zhihu.com) |
+| 📖 知乎 | [蒸馏的猫](https://www.zhihu.com/people/xin-qing-32-53-61) |
 | 💬 公众号 | 微信搜「蒸馏的猫」 |
 
 **为什么做这个？**
@@ -269,7 +269,7 @@ skills/{name}-perspective.md
 
 ## 许可证
 
-MIT License © [蒸馏的猫](https://github.com/alchaincyf)
+MIT License © [蒸馏的猫](https://github.com/ThistleInTheSun)
 
 ---
 
